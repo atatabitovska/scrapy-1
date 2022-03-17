@@ -1,5 +1,5 @@
 ===========================
-Class Instantiation Methods
+Class Factory Methods
 ===========================
 
 These methods create an instance of their implementer class by 
